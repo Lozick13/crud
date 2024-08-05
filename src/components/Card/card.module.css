@@ -1,0 +1,15 @@
+.card {
+	position: relative;
+	border: 1px solid #000;
+	padding: 20px;
+	width: 400px;
+	height: 200px;
+}
+.card__delete {
+	position: absolute;
+	top: -30px;
+	right: -30px;
+}
+.card__content {
+	text-align: center;
+}
